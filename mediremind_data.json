@@ -1,0 +1,27 @@
+{
+    "medications": [
+        {
+            "name": "Medication A",
+            "schedule": "08:00:00",
+            "stock": {
+                "current_quantity": 30,
+                "consumption_rate": 1,
+                "alert_threshold": 5
+            }
+        }
+    ],
+    "appointments": [
+        {
+            "date_time": "2025-03-15T10:00:00",
+            "description": "Annual check-up"
+        },
+        {
+            "date_time": "2025-02-27T13:17:00",
+            "description": "dr Sheril"
+        },
+        {
+            "date_time": "2025-02-27T13:18:38.915687",
+            "description": ""
+        }
+    ]
+}
